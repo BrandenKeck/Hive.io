@@ -2,7 +2,7 @@
 C++ game which uses the SFML library for controller support and graphics
 
 
-  '''
+  '''  
 Laboon  
 
 buildAbbreviationString() builds the following:  
