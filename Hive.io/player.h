@@ -1,0 +1,17 @@
+void init_player(double, double, double, double);
+void create_projectile();
+void move_player();
+void move_target();
+void move_bullets();
+void set_accl_x(double);
+void set_accl_y(double);
+void set_vel_tx(double);
+void set_vel_ty(double);
+void set_tx(double);
+void set_ty(double);
+double get_x();
+double get_y();
+double get_tx();
+double get_ty();
+std::vector<std::vector<float>> get_bullets();
+std::vector<sf::Sprite> get_bsprites();

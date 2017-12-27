@@ -1,0 +1,8 @@
+﻿  player.cpp
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(77): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\development\c++\hive.io\hive.io\hive.io\player.cpp(78): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Hive.io.vcxproj -> C:\Development\C++\Hive.io\Hive.io\Debug\Hive.io.exe
